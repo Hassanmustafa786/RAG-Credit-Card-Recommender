@@ -1,4 +1,4 @@
-# Credit Card Suggestor Chatbot
+# RAG Credit Card Recommender
 
 This project is a chatbot that suggests credit cards based on user queries. It scrapes content from a specified website, converts the content into embeddings, and uses Retrieval-Augmented Generation (RAG) to answer questions accordingly. The project is built using Flask.
 
